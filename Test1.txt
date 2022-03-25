@@ -1,0 +1,4 @@
+public class Test{
+Public static void Main(String[] args){
+System.out.println("Welcome to jave");}
+}
