@@ -1,2 +1,1 @@
-# MarlabsTrupti
-My name is trupti
+Java Project using SpringBoot Framework
